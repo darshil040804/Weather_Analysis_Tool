@@ -1,7 +1,7 @@
 ###############################################################################################
 # ALGORITHM
 #
-# Computer proj # 07
+# Weather Data Analysis Tool
 # 
 # This code implemenets a total of 11 functions. The flow of the program is as follows:
 # open_files(): This function is first used to prompt the user for cities about which they 
